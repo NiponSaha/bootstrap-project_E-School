@@ -1,0 +1,460 @@
+/*Extra small devices (portrait phones, less than 375px)*/
+@media (min-width: 320px) and (max-width: 374.98px) {
+    /* Header Part CSS */
+    .logo {
+        width: 180px;
+    }
+
+    .menu-items ul li a {
+        padding: 0 10px !important;
+    }
+
+    .s-btn {
+        margin-top: 10px;
+        margin-left: 65px;
+        padding: 10px 48px;
+    }
+
+    /* Banner part CSS */
+    .banner {
+        padding-top: 20px;
+    }
+
+    .bnr-txt {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .bnr-h1 {
+        margin: 10px 0 16px;
+        padding: 0;
+        font-size: 34px;
+        line-height: 42px;
+    }
+
+    .bnr-p2 {
+        line-height: 26px;
+    }
+
+    /* Feature Part CSS */
+    .cmn-p {
+        padding-bottom: 84px;
+    }
+
+    /* Courses part CSS */
+    .crs-cnt-footr-rgt {
+        padding-right: 133px;
+    }
+
+    .crs-cnt {
+        margin: 24px 0 0;
+    }
+
+    .crs-h1, .test-h1 {
+        font-size: 30px;
+    }
+
+    /* Testimonial Part CSS */
+    .test-area {
+        margin: 36px 0 0;
+        text-align: center;
+    }
+
+    .test-slide-img {
+        padding: 20px 54px 30px;
+    }
+
+    .test-slide-txt {
+        margin: 0 28px;
+    }
+
+    /* Footer-top Part CSS */
+    .footer-info p {
+        padding: 0 28px 0;
+        text-align: center;
+    }
+
+    .cmn-ftr-mr {
+        margin: 28px 0 18px;
+    }
+
+    .cntr-align {
+        text-align: center;
+    }
+}
+
+@media (min-width: 375px) and (max-width: 424.98px) {
+    /* Header Part CSS */
+    .menu {
+        justify-content: space-evenly !important;
+    }
+
+    .menu-items ul li a {
+        padding: 0 35px !important;
+    }
+
+    .c-btn {
+        margin-left: 0;
+    }
+
+    .s-btn {
+        margin-top: 10px;
+        margin-left: 92px;
+        padding: 10px 48px;
+    }
+
+    .logo {
+        width: 180px;
+    }
+
+    /* Banner part CSS */
+    .bnr-txt {
+        margin-top: 30px;
+        padding: 0 18px 0;
+        text-align: center;
+    }
+
+    .bnr-h1 {
+        margin: 10px 0 16px;
+        padding: 0;
+        font-size: 34px;
+        line-height: 42px;
+    }
+
+    .bnr-p2 {
+        line-height: 26px;
+    }
+
+    .bnr-img {
+        margin-top: 20px;
+        padding: 0 20px 0;
+    }
+
+    /* Features Part CSS */
+    .cmn-p {
+        padding-bottom: 60px;
+    }
+
+    /* Course Part CSS */
+    .crs-cnt {
+        margin: 24px 0 0;
+    }
+
+    .crs-h1, .test-h1 {
+        font-size: 30px;
+    }
+
+    /* Testimonial Part CSS */
+    .test-area {
+        margin: 36px 0 0;
+        text-align: center;
+    }
+
+    .test-slide-img {
+        padding: 20px 72px 30px;
+    }
+
+    .test-slide-txt {
+        margin: 0 28px;
+    }
+
+    /* Footer-top Part CSS */
+    .footer-info p {
+        padding: 0 28px 0;
+        text-align: center;
+    }
+
+    .cmn-ftr-mr {
+        margin: 28px 0 18px;
+    }
+
+    .cntr-align {
+        text-align: center;
+    }
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 425px) and (max-width: 575.98px) { 
+    /* Header Part CSS */
+    .menu {
+        justify-content: space-evenly !important;
+    }
+
+    .menu-items ul li a {
+        padding: 0 42px !important;
+    }
+
+    .c-btn {
+        margin: 0 auto;
+    }
+
+    .s-btn {
+        margin-top: 10px;
+        margin-left: 118px;
+        padding: 10px 48px;
+    }
+
+    /* Banner Part CSS */
+    .banner {
+        padding-top: 20px;
+    }
+
+    .bnr-txt {
+        margin-top: 30px;
+        padding: 0 18px 0;
+        text-align: center;
+    }
+
+    .bnr-h1 {
+        margin: 10px 0 16px;
+        padding: 0;
+        font-size: 36px;
+        line-height: 42px;
+    }
+
+    .bnr-p2 {
+        line-height: 26px;
+    }
+
+    .bnr-img {
+        padding: 0 20px 0;
+    }
+
+    /* Feature part CSS */
+    .cmn-p {
+        padding-bottom: 40px;
+    }
+
+    /* Course Part CSS */
+    .crs-cnt {
+        margin: 24px 0 0;
+    }
+
+    .crs-h1, .test-h1 {
+        font-size: 30px;
+    }
+
+    /* Testimonial Part CSS */
+    .test-area {
+        margin: 36px 0 0;
+        text-align: center;
+    }
+
+    .test-slide-img {
+        padding: 20px 90px 30px;
+    }
+
+    .test-slide-txt {
+        margin: 0 28px;
+    }
+
+    /* Footer-top Part CSS */
+    .footer-info p {
+        padding: 0 28px 0;
+        text-align: center;
+    }
+
+    .cmn-ftr-mr {
+        margin: 28px 0 18px;
+    }
+
+    .cntr-align {
+        text-align: center;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    /* Header Part CSS */
+    .menu {
+        justify-content: space-evenly !important;
+    }
+
+    .menu-items ul li a {
+        padding: 0 46px !important;
+    }
+
+    .burger-menu {
+        margin-left: 120px;
+    }
+
+    .s-btn {
+        margin-top: 16px;
+        margin-left: 185px;
+        padding: 10px 48px;
+    }
+
+    /* Banner Part CSS */
+    .banner {
+        padding-top: 10px;
+    }
+    .bnr-txt {
+        margin-top: 30px;
+        padding: 0 36px 0;
+        text-align: center;
+    }
+
+    .bnr-h1 {
+        margin: 10px 0 16px;
+        padding: 0 12px 0;
+        font-size: 44px;
+        line-height: 52px;
+    }
+
+    .bnr-p2 {
+        line-height: 26px;
+    }
+
+    .bnr-img {
+        padding: 0 20px 0;
+    }
+
+    /* Features Part CSS */
+    .cmn-p {
+        padding-bottom: 60px;
+    }
+
+    /* Courses Part CSS */
+    .crs-cnt {
+        margin: 34px 12px 0;
+    }
+
+    .crs-h1, .test-h1 {
+        font-size: 34px;
+    }
+
+    /* Testimonial Part CSS */
+
+    .test-area {
+        margin: 36px 0 0;
+        text-align: center;
+    }
+
+    .test-slide-img {
+        padding: 20px 160px 30px;
+    }
+
+    .test-slide-txt {
+        margin: 0 28px;
+    }
+
+    /* Footer-top Part CSS */
+    .footer-info p {
+        padding: 0 36px 0;
+        text-align: center;
+    }
+
+    .cmn-ftr-mr {
+        margin: 28px 0 18px;
+    }
+
+    .cntr-align {
+        text-align: center;
+    }
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* Header Part CSS */
+	.menu {
+        justify-content: space-around !important;
+    }
+
+    .menu-items ul li a {
+        padding: 0 36px !important;
+    }
+    
+    .logo {
+        padding-right: 300px;
+    }
+
+    .s-btn {
+        margin-top: 16px;
+        margin-left: 270px;
+        padding: 10px 48px;
+    }
+
+    /* Banner part CSS */
+    .bnr-txt {
+        margin-top: 30px;
+        padding: 0 50px 0;
+        text-align: center;
+    }
+
+    .bnr-h1 {
+        padding: 0 50px 0;
+        font-size: 46px;
+        line-height: 56px;
+    }
+
+    .bnr-p2 {
+        line-height: 28px;
+    }
+
+    .bnr-img {
+        padding: 0 50px 0;
+    }
+
+    /* Features Part CSS */
+    .cmn-p {
+        padding-bottom: 80px;
+    }
+
+    /* Courses Part CSS */
+    .crs-cnt {
+        margin: 36px 80px 0;
+    }
+
+    /* Testimonial Part CSS */
+    .test-area {
+        margin: 26px 0 0;
+    }
+
+    .test-slide-txt {
+        margin-right: 40px;
+    }
+
+    /* Footer-top Part CSS */
+    .footer-info p {
+        padding-right: 48px;
+    }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* Banner part CSS */
+    .bnr-h1 {
+        padding: 0 50px 0 0;
+    }
+
+    /* Courses part CSS */
+    .crs-cnt-footr-rgt {
+        padding-right: 150px;
+    }
+    /* Testimonical Part CSS */
+    .test-area {
+        margin: 48px 0 0;
+    }
+    .test-slide-img {
+        padding: 8px;
+    }
+
+    /* Footer-top Part CSS */
+    .footer-info p {
+        padding-right: 70px;
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+    /* Banner part CSS */
+    .bnr-h1 {
+        padding: 0 40px 0 0;
+    }
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+	
+}
