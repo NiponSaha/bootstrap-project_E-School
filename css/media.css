@@ -12,7 +12,7 @@
     .s-btn {
         margin-top: 10px;
         margin-left: 65px;
-        padding: 10px 48px;
+        width: 50%;
     }
 
     /* Banner part CSS */
@@ -42,8 +42,8 @@
     }
 
     /* Courses part CSS */
-    .crs-cnt-footr-rgt {
-        padding-right: 133px;
+    .float-end {
+        float: left !important;
     }
 
     .crs-cnt {
